@@ -1,3 +1,4 @@
+#image
 FROM microsoft/dotnet:2.2-aspnetcore-runtime
 
 ENV CORECLR_ENABLE_PROFILING=1 \
